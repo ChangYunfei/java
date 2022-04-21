@@ -9,6 +9,8 @@ public class test{
       System.out.println();
     }
 
+void getName(){
 
+}
 
 }
